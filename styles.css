@@ -1,0 +1,61 @@
+body {
+    font-family: 'Orbitron', sans-serif;
+    background: url('https://images.unsplash.com/photo-1521566652839-697aa47312a7?fit=crop&w=1950&q=80') no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    color: #0ff;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #0ff;
+    padding: 1em 0;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 15px;
+    color: #0ff;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+    margin: 20px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    color: #0ff;
+}
+
+h1, h2 {
+    color: #0ff;
+}
+
+button {
+    background-color: #0ff;
+    color: #000;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #00ccff;
+}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catalogo Suonerie</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <h1>Catalogo Suonerie Cyberpunk</h1>
+        <nav>
+            <a href="index.html"><i class="fas fa-home"></i> Home</a>
+            <a href="catalogo.html"><i class="fas fa-music"></i> Catalogo Suonerie</a>
+            <a href="carica.html"><i class="fas fa-upload"></i> Carica Suoneria</a>
+        </nav>
+    </header>
+    <main>
+        <h2>Elenco Suonerie</h2>
+        <!-- Elenco delle suonerie disponibili -->
+    </main>
+    <footer>
+        <p>&copy; 2024 Suonerie Cyberpunk. Tutti i diritti riservati.</p>
+    </footer>
+</body>
+</html>
